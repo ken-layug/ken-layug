@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning C#, .NET platform
+- 😄 Pronouns: He/Him, They/Them
+- ⚡ Fun fact: I clear Signora with Raiden burst every week
+
 <!--
 **ken-layug/ken-layug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
