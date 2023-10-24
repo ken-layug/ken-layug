@@ -4,7 +4,6 @@
 - 🧑‍💻 Knows to code in C, C++, C#, Java, HTML/CSS, Javascript
 - 🌱 I’m currently learning more about the .NET platform. In fact, I have some personal projects for it.
 - 😄 Pronouns: He/Him, They/Them
-- ⚡ Fun fact: I clear Signora with Raiden burst every week
 
 <!--
 **ken-layug/ken-layug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
