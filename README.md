@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on myself to become ~~one with the blade~~ better in coding and solving problems.
-- 🌱 I’m currently learning C#, .NET platform
+- 🔭 I’m currently working on myself to be better in coding and solving problems.
+- 🧑‍💻 Knows to code in C, C++, C#, Java, HTML/CSS, Javascript
+- 🌱 I’m currently learning more about the .NET platform. In fact, I have some personal projects for it.
 - 😄 Pronouns: He/Him, They/Them
 - ⚡ Fun fact: I clear Signora with Raiden burst every week
 
